@@ -15,9 +15,9 @@ Please enter your choice:
 The function of each of these commands is as follows:
 Zero - exit the program.
 1- Get a number from the user and store it on top of the stack.
-4- Remove the top element of the stack (remove it from the stack) and print it for the user.
+2- Remove the top element of the stack (remove it from the stack) and print it for the user.
 3- Print all the elements in the stack.
-0- Remove the top two elements of the stack (remove from the stack) and store their sum on the top of the stack.
+4- Remove the top two elements of the stack (remove from the stack) and store their sum on the top of the stack.
 5- Remove two elements from the top of the stack (remove from the stack) and store their product on the top of the stack.
 6- Write the entire contents of the stack on the file whose name you get from the user.
 7- Fill the stack with the contents of the file whose name you get from the user.
