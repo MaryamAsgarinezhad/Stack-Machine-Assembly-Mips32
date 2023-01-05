@@ -24,11 +24,11 @@ Zero - exit the program.
 
 
 Print an appropriate error message in each of the following cases:
- If the user enters a number other than 0 to 7.
- If an overflow occurs during addition or multiplication.
- If the number of elements in the stack is not enough to perform addition or multiplication operations.
- If the user makes a push request but the stack has no room to add a new element.
- If the user makes a pop request but the stack is empty.
- If the user asks to load, but the file he gives the name is not available.
- If the user requests load, but the size of the stacks written in the file is the size of the stack defined in
+- If the user enters a number other than 0 to 7.
+- If an overflow occurs during addition or multiplication.
+- If the number of elements in the stack is not enough to perform addition or multiplication operations.
+- If the user makes a push request but the stack has no room to add a new element.
+- If the user makes a pop request but the stack is empty.
+- If the user asks to load, but the file he gives the name is not available.
+- If the user requests load, but the size of the stacks written in the file is the size of the stack defined in
 The program is different
